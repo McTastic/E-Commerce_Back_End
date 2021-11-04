@@ -6,9 +6,18 @@
 - [Usage](#usage)
 - [Additional Info](#additional-info)
 
-## Demo:
+## Demos:
 
-Coming Soon!
+![demo of categories route and server startup](./demos/categories_route_demo.gif)
+Creating DB: https://drive.google.com/file/d/1-xKLywo8fRfVC45UwIQJgLT7LEtD04Tl/view?usp=sharing
+
+Seeding DB: https://drive.google.com/file/d/1MwYereYsveah0MZx3YZE90hggMfb5_7w/view?usp=sharing
+
+Categories Route: https://drive.google.com/file/d/1eY-73YNgzPhQrKSPVCUalotEu-QLkqns/view?usp=sharing
+
+Products Route: https://drive.google.com/file/d/1nsM7PiHq1RFZJ_V6AmhKPJ6UfoXTDlpn/view?usp=sharing
+
+Tags Route: https://drive.google.com/file/d/1LrJqye7KmbIvBVg4vSRwrOD5tb5YT8G1/view?usp=sharing
 
 ## Description:
 
